@@ -24,7 +24,7 @@
 
   - :seedling: Exploring Mobile Development using Flutter.
   
-  - :brown_heart: In my free time, I solve problems on LeetCode and read technical books.
+  - :brown_heart: In my free time, I like solving problems on LeetCode and reading technical books.
   
   ---
   ### Languages and Tools :
