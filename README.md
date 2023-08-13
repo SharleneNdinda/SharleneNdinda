@@ -20,7 +20,7 @@
   I am a Software Engineer from Nairobi, Kenya. 
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-  - :telescope: I’m working as a Software Engineer and contributing to backend projects mainly for building web applications.
+  - :telescope: Currently working as a Software Engineer and contributing to backend projects mainly for building web applications.
 
   - :seedling: Exploring Mobile Development using Flutter.
   
