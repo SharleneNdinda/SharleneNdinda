@@ -22,7 +22,7 @@
 
   - :telescope: Currently working as a Software Engineer and contributing to backend projects mainly for building web applications.
 
-  - :seedling: Exploring Mobile Development using Flutter.
+  - :seedling: Exploring 2D Game Development using Open Source Engines 🎮.
   
   - :brown_heart: In my free time, I like solving problems on LeetCode and reading technical books.
   
