@@ -24,7 +24,7 @@
 
   - :seedling: Exploring 2D Game Development using Open Source Engines 🎮.
     
-  - :seedling: Exploring Mobile development using Flutter 🐦.
+  - :bird: Exploring Mobile development using Flutter 🐦.
   
   - :brown_heart: In my free time, I like solving problems on LeetCode and reading technical books.
   
