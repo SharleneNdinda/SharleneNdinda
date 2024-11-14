@@ -20,13 +20,13 @@
   I am a Software Engineer from Nairobi, Kenya. 
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-  - :telescope: Currently working as a Software Engineer and contributing to backend projects mainly for building web applications.
+  - :telescope: Currently working as a Software Engineer and contributing to backend projects mainly towards building data-driven web applications.
 
   - :seedling: Exploring 2D Game Development using Open Source Engines 🎮.
     
-  - :bird: Exploring Mobile development using Flutter 🐦.
+  - :bird: Exploring Mobile development using React Native 🤎.
   
-  - :brown_heart: In my free time, I like solving problems on LeetCode and reading technical books.
+  - :brown_heart: In my free time, I like being creative 🎨 and singing 🎤.
   
   ---
   ### Languages and Tools :
