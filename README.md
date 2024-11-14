@@ -24,7 +24,7 @@
 
   - :seedling: Exploring 2D Game Development using Open Source Engines 🎮.
     
-  - :bird: Exploring Mobile development using React Native 🤎.
+  - :cloud: Exploring Mobile development using React Native 🤎.
   
   - :brown_heart: In my free time, I like being creative 🎨 and singing 🎤.
   
