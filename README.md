@@ -20,7 +20,7 @@
   I am a Software Engineer from Nairobi, Kenya. 
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-  - :telescope: Currently working as a Software Engineer and contributing to backend projects mainly towards building data-driven web applications.
+  - :telescope: Currently working as a Software Engineer & contributing to backend projects geared towards building medical data-driven systems.
 
   - :seedling: Exploring 2D Game Development using Open Source Engines 🎮.
     
