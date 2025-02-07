@@ -22,9 +22,9 @@
 
   - :telescope: Currently working as a Software Engineer & contributing to backend projects geared towards building medical data-driven systems.
 
-  - :seedling: Exploring 2D Game Development using Open Source Engines 🎮.
+  - :seedling: Exploring 2D Game Development using Javascript & Open Source Engines 🎮.
     
-  - :cloud: Exploring Mobile development using React Native 🤎.
+  - :cloud: Exploring Mobile and Web development using React 🤎.
   
   - :brown_heart: In my free time, I like being creative 🎨 and singing 🎤.
   
