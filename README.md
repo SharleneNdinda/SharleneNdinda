@@ -23,6 +23,8 @@
   <!-- - :telescope: Currently working as a Software Engineer & contributing to backend projects geared towards building medical data-driven systems. -->
   - :seedling: Exploring 2D Game Development using Open Source Engines 🎮.
     
+  - :sushi: Learning cross platform mobile development using React Native 🚀.
+    
   - :cloud: Building desktop applications using Tauri & Next.Js 🤎.
   
   - :brown_heart: I'm also an artist 🎨 and I love singing for Jesus 🎤.
