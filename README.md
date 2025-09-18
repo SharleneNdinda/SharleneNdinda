@@ -27,8 +27,6 @@
     
   - :cloud: Building desktop applications using Tauri & Next.Js 🤎.
   
-  - :brown_heart: I'm also an artist 🎨 and I love singing for Jesus 🎤.
-  
   ---
   ### Languages and Tools :
 
