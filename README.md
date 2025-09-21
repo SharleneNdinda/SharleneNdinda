@@ -21,6 +21,8 @@
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
   <!-- - :telescope: Currently working as a Software Engineer & contributing to backend projects geared towards building medical data-driven systems. -->
+  - :kiwi_fruit: 3+ Years professional experience building scalable backend API's and services 🚀.
+
   - :seedling: Exploring 2D Game Development using Open Source Engines 🎮.
     
   - :sushi: Learning cross platform mobile development using React Native 🚀.
