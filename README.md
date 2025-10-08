@@ -27,7 +27,7 @@
     
   - :sushi: Learning cross platform mobile development using React Native 🚀.
     
-  - :cloud: Building desktop applications using Tauri & Next.Js 🤎.
+    <!-- - :cloud: Building desktop applications using Tauri & Next.Js 🤎. -->
   
   ---
   ### Languages and Tools :
