@@ -23,9 +23,9 @@
   <!-- - :telescope: Currently working as a Software Engineer & contributing to backend projects geared towards building medical data-driven systems. -->
   - :kiwi_fruit: 3+ Years professional experience building scalable backend API's and services 🚀.
 
-  -  :sushi: Learning cross platform mobile development using React Native 🚀.
+  - :sushi: Learning is a continous journey! Excited for the ride 🚀.
 
-  - :seedling: Building a tech and design studio focused on bringing solutions to the Christian Market 🤎.
+  - :seedling: Saved by Christ, building solutions that exhalt Him 🤎.
 
     <!-- - :cloud: Building desktop applications using Tauri & Next.Js 🤎. -->
   
