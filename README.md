@@ -21,11 +21,11 @@
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
   <!-- - :telescope: Currently working as a Software Engineer & contributing to backend projects geared towards building medical data-driven systems. -->
-  - :kiwi_fruit: 3+ Years professional experience building scalable backend API's and services 🚀.
+  - 3+ Years professional experience building scalable backend API's and services 🚀.
 
-  - :sushi: Learning is a continous journey! Excited for the ride 🚀.
+  - Learning is a continous journey! Excited for the ride 👩‍💻.
 
-  - :seedling: Saved by Christ, building solutions that exhalt Him 🤎.
+  - Saved by Christ, building solutions that exhalt Him 🤎.
 
     <!-- - :cloud: Building desktop applications using Tauri & Next.Js 🤎. -->
   
